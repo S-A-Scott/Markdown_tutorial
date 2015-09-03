@@ -101,11 +101,11 @@ Markdown supports two styles for creating links: inline and reference. With both
 To create an inline link, you warp the link text in brackets([]), and then warp the link in parenthesis( () ).  
 For example, to create a hypelink to www.google.com, with a text that says, "GO TO GOOGLE", you write this in Markdown:
 ```
-[GO TO GOOGLE](www.google.com)
+[GO TO GOOGLE](https://www.google.com)
 ```
 
 It will turns to:  
-[GO TO GOOGLE](www.google.com)
+[GO TO GOOGLE](https://www.google.com)
 
 #####NOTE
 
@@ -118,13 +118,13 @@ The other link type is reference link. As the name implies, the link is actually
 There is [a website for you][1].
 There is [another website for you][2].
 
-[1]: www.google.com
-[2]: www.github.com
+[1]: https://www.google.com
+[2]: https://www.github.com
 ```
 
 Output:  
 There is [a website for you][1].  
 There is [another website for you][2].
 
-[1]: www.google.com
-[2]: www.github.com
+[1]: https://www.google.com
+[2]: https://www.github.com
