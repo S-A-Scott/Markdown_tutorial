@@ -37,7 +37,11 @@ For example, input:
 
 > This text will be _italic_.
 
-will output:..
+```
+This text will be _italic_.
+```
+
+will output:  
 This text will be _italic_.
 
 ### Bold
