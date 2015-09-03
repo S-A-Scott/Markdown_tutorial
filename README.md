@@ -35,11 +35,11 @@ There are two ways to emphasis the text: _italics_ and **bold**.
 To make a phrase _italic_ in Markdown, you can surround words with an undersocre(_).
 For example, input:
 ```
-This text will be _italic_.
+_This text will be italic_.
 ```
 
 will output:
-> This text will be _italic_.
+> _This text will be italic_.
 
 #####NOTE
 
@@ -48,6 +48,17 @@ Where Markdown transforms undersocre(_) into italics, Github Flavored Markdown(G
 * uninitialized_copy_n
 
 ### Bold
+
+Similarly, to make phrase **bold** in Markdown, you can surround words with two asterisks(**).
+For example, input:
+```Markdown
+**This text will be bold**
+```
+
+will output:
+> **This text will be bold**
+
+Of course, you can combine italic and bold in the same line.
 
 ## Headers
 
