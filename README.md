@@ -11,9 +11,13 @@
 * [Lesson2 Links](#lesson2-links)
     * [Inline Link](#inline-link)
     * [Reference Link](#reference-link)
-* [Lesson3 Images](#images)
+* [Lesson3 Images](#lesson3-images)
     * [Inline Image Link](#inline-image-link)
     * [Reference Image Link](#reference-image-link)
+* [Lesson4 Lists](#lesson4-lists)
+* [Lesson5 Blockquotes](#lesson5-blockquotes)
+* [Lesson6 Paragrahps](#lesson6-paragrahps)
+* [Lesson7 Code](#lesson7-code)
 
 
 # Markdown Basics
