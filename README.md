@@ -104,8 +104,27 @@ For example, to create a hypelink to www.google.com, with a text that says, "GO 
 [GO TO GOOGLE](www.google.com)
 ```
 
-It will turns to:
+It will turns to:  
 [GO TO GOOGLE](www.google.com)
 
+#####NOTE
+
+GFW will autolink standard URLs, so if you want to link to a URL(instead of setting link text), you can simply enter the URL and it will be turned into a link to that URL.
 
 ## Reference Link
+
+The other link type is reference link. As the name implies, the link is actually a reference to another place in the document. Here's an example:
+```
+There is [a website for you][1].
+There is [another website for you][2].
+
+[1]: www.google.com
+[2]: www.github.com
+```
+
+Output:  
+There is [a website for you][1].  
+There is [another website for you][2].
+
+[1]: www.google.com
+[2]: www.github.com
