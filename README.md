@@ -6,7 +6,7 @@
 * [Lesson1 Emphasis and Headers](#lesson1-emphasis-and-headers)
     * [Emphasis](#emphasis)
 		* [Italics](#italics)
-    * [Bold](#bold)
+        * [Bold](#bold)
     * [Headers](#headers)
 * [Lesson2 Links](#lesson2-links)
 
@@ -65,7 +65,7 @@ For example, input
 ```
 
 will output:__
-  **_This text will be italics and bold_**
+**_This text will be italics and bold_**
 
 ## Headers
 
