@@ -34,15 +34,12 @@ There are two ways to emphasis the text: _italics_ and **bold**.
 
 To make a phrase _italic_ in Markdown, you can surround words with an undersocre(_).
 For example, input:
+```
+This text will be _italic_.
+```
 
+will output:
 > This text will be _italic_.
-
-```
-This text will be _italic_.
-```
-
-will output:  
-This text will be _italic_.
 
 ### Bold
 
