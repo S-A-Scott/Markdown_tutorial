@@ -34,7 +34,7 @@ There are two ways to emphasis the text: _italics_ and **bold**.
 
 ### Italics
 
-To make a phrase _italic_ in Markdown, you can surround words with an undersocre(_).
+To make a phrase _italic_ in Markdown, you can surround words with an undersocre(_).  
 For example, input:
 ```
 _This text will be italic_.
@@ -51,7 +51,7 @@ Where Markdown transforms undersocre(_) into italics, Github Flavored Markdown(G
 
 ### Bold
 
-Similarly, to make phrase **bold** in Markdown, you can surround words with two asterisks(**).
+Similarly, to make phrase **bold** in Markdown, you can surround words with two asterisks(**).  
 For example, input:
 ```
 **This text will be bold**
@@ -60,8 +60,8 @@ For example, input:
 will output:  
   **This text will be bold**
 
-Of course, you can combine italic and bold in the same line.
-For example, input
+Of course, you can combine italic and bold in the same line.  
+For example, input:
 ```
 **_This text will be italics and bold_**
 ```
@@ -71,7 +71,7 @@ will output:__
 
 ## Headers
 
-You can create a heading by adding one or more hash(#). You place the same number of # makes as the size of the header you want.
+You can create a heading by adding one or more hash(#). You place the same number of # makes as the size of the header you want.  
 For example, input
 ```
 # Header one
