@@ -41,6 +41,12 @@ This text will be _italic_.
 will output:
 > This text will be _italic_.
 
+#####NOTE
+
+Where Markdown transforms undersocre(_) into italics, Github Flavored Markdown(GFM) ignores undersocre in words, like
+* make_pair
+* uninitialized_copy_n
+
 ### Bold
 
 ## Headers
