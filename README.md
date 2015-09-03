@@ -10,29 +10,29 @@
     * [Headers](#Headers_)
 * [Lesson2-Links](#Lesson2)
 
-<a name="Markdown_Basics/>
+<a name="Markdown_Basics></a>
 #Markdown Basics
 
-<a name="What_is_Markdown"/>
+<a name="What_is_Markdown"></a>
 ##What is Markdonw
 
-<a name="Github_Flavored_Markdown"/>
+<a name="Github_Flavored_Markdown"></a>
 ##GitHub Flavored Markdown
 
-<a name="Lesson1"/>
+<a name="Lesson1"></a>
 #Lesson1-Emphasis and Headers
 
-<a name="Emphasis_"/>
+<a name="Emphasis_"></a>
 ##Emphasis
 
-<a name="Italics_"/>
+<a name="Italics_"></a>
 ###Italics
 
-<a name="Bold_"/>
+<a name="Bold_"></a>
 ###Bold
 
-<a name="Headers_"/>
+<a name="Headers_"></a>
 ##Headers_
 
-<a name="Lesson2"/>
+<a name="Lesson2"></a>
 #Lesson2
