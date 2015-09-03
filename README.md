@@ -59,7 +59,33 @@ will output:
   **This text will be bold**
 
 Of course, you can combine italic and bold in the same line.
+For example, input
+```
+**_This text will be italics and bold_**
+```
+
+will output:__
+  **_This text will be italics and bold_**
 
 ## Headers
+
+You can create a heading by adding one or more hash(#). You place the same number of # makes as the size of the header you want.
+For example, input
+```
+# Header one
+## Header two
+### Header three
+#### Header four
+##### Header five
+###### Header six
+```
+
+will output:__
+# Header one
+## Header two
+### Header three
+#### Header four
+##### Header five
+###### Header six
 
 # Lesson2 Links
