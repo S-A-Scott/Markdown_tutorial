@@ -66,7 +66,7 @@ For example, input:
 **_This text will be italics and bold_**
 ```
 
-will output:__
+will output:  
 **_This text will be italics and bold_**
 
 ## Headers
