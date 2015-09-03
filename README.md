@@ -38,7 +38,7 @@ For example, input:
 _This text will be italic_.
 ```
 
-will output:
+will output:  
   _This text will be italic_.
 
 #####NOTE
@@ -55,7 +55,7 @@ For example, input:
 **This text will be bold**
 ```
 
-will output:
+will output:  
   **This text will be bold**
 
 Of course, you can combine italic and bold in the same line.
