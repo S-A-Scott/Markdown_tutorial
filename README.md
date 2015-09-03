@@ -1,38 +1,29 @@
 # Markdown tutorial
 
-* [Markdown Basics](#Markdown Basics)
-    * [What is Markdown](#What is Markdown)
-    * [GitHub Flavored Markdown](#Github Flavored Markdown)
-* [Lesson1-Emphasis and Headers](#Lesson1)
-    * [Emphasis](#Emphasis)
-        * [Italics](#Italics)
-        * [Bold](#Bold)
-    * [Headers](#Headers)
-* [Lesson2-Links](#Lesson2)
+* [Markdown Basics](#markdown-basics)
+    * [What is Markdown](#what-is-markdown)
+    * [GitHub Flavored Markdown](#github-flavored-markdown)
+* [Lesson1-Emphasis and Headers](#lesson1)
+    * [Emphasis](#emphasis)
+		* [Italics](#italics)
+		* [Bold](#bold)
+    * [Headers](#headers)
+* [Lesson2-Links](#lesson2)
 
-<a id="Markdown Basics></a>
-#Markdown Basics
+# Markdown Basics
 
-<a id="What is Markdown"></a>
-##What is Markdonw
+## What is Markdonw
 
-<a id="Github Flavored Markdown"></a>
-##GitHub Flavored Markdown
+## GitHub Flavored Markdown
 
-<a id="Lesson1"></a>
-#Lesson1-Emphasis and Headers
+# Lesson1-Emphasis and Headers
 
-<a id="Emphasis"></a>
-##Emphasis
+## Emphasis
 
-<a id="Italics"></a>
-###Italics
+### Italics
 
-<a id="Bold"></a>
-###Bold
+### Bold
 
-<a id="Headers"></a>
-##Headers
+## Headers
 
-<a id="Lesson2"></a>
-#Lesson2
+# Lesson2
