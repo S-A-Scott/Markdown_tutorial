@@ -11,6 +11,10 @@
 * [Lesson2 Links](#lesson2-links)
     * [Inline Link](#inline-link)
     * [Reference Link](#reference-link)
+* [Lesson3 Images](#images)
+    * [Inline Image Link](#inline-image-link)
+    * [Reference Image Link](#reference-image-link)
+
 
 # Markdown Basics
 
@@ -128,3 +132,22 @@ There is [another website for you][2].
 
 [1]: https://www.google.com
 [2]: https://www.github.com
+
+
+# Lesson3 Images
+
+Image syntax is very much like link syntax. If you know how to create links in Markdown, you can create images too.
+
+The only difference between two syntax is that an image is prefaced with an exclamation point(!).
+
+Images also have two styles, inline and reference, just like links.
+
+## Inline Image Link
+
+Input:  
+```
+![alt text](https://octodex.github.com/images/octdrey-catburn.jpg)
+```
+
+Output:  
+![alt text](https://octodex.github.com/images/octdrey-catburn.jpg)
