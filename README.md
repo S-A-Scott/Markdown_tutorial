@@ -151,3 +151,17 @@ Input:
 
 Output:  
 ![alt text](https://octodex.github.com/images/octdrey-catburn.jpg)
+
+## Reference Image Link
+
+Input:  
+```
+![alt text][1]
+
+[1]: https://octodex.github.com/images/octdrey-catburn.jpg
+```
+
+Output:  
+![alt text][1]
+
+[1]: https://octodex.github.com/images/octdrey-catburn.jpg
