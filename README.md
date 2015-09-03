@@ -9,6 +9,8 @@
         * [Bold](#bold)
     * [Headers](#headers)
 * [Lesson2 Links](#lesson2-links)
+    * [Inline Link](#inline-link)
+    * [Reference Link](#reference-link)
 
 # Markdown Basics
 
@@ -82,7 +84,7 @@ For example, input
 ###### Header six
 ```
 
-will output:__
+will output:  
 # Header one
 ## Header two
 ### Header three
@@ -91,3 +93,19 @@ will output:__
 ###### Header six
 
 # Lesson2 Links
+
+Markdown supports two styles for creating links: inline and reference. With both styles, you use square brackets to delimit the text you want to turn into a link.
+
+## Inline Link
+
+To create an inline link, you warp the link text in brackets([]), and then warp the link in parenthesis( () ).  
+For example, to create a hypelink to www.google.com, with a text that says, "GO TO GOOGLE", you write this in Markdown:
+```
+[GO TO GOOGLE](www.google.com)
+```
+
+It will turns to:
+[GO TO GOOGLE](www.google.com)
+
+
+## Reference Link
