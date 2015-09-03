@@ -3,7 +3,7 @@
 * [Markdown Basics](#markdown-basics)
     * [What is Markdown](#what-is-markdown)
     * [GitHub Flavored Markdown](#github-flavored-markdown)
-* [Lesson1 Emphasis and Headers](#lesson1-emphasis-and-headers)
+<!-- * [Lesson1 Emphasis and Headers](#lesson1-emphasis-and-headers) -->
     * [Emphasis](#emphasis)
 		* [Italics](#italics)
     * [Bold](#bold)
@@ -16,7 +16,7 @@
 
 ## GitHub Flavored Markdown
 
-# Lesson1 Emphasis and Headers
+<!-- # Lesson1 Emphasis and Headers -->
 
 ## Emphasis
 
