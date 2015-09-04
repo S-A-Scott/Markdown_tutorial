@@ -17,6 +17,7 @@
 * [Lesson4 Lists](#lesson4-lists)
     * [Unordered Lists](#unordered-lists)
     * [Ordered Lists](#ordered-lists)
+    * [Nested Lists](#nested-lists)
 * [Lesson5 Blockquotes](#lesson5-blockquotes)
 * [Lesson6 Paragrahps](#lesson6-paragrahps)
 * [Lesson7 Code](#lesson7-code)
@@ -197,9 +198,39 @@ To create an unordered list, use asterisks(*), pluses(+), and hyphens(-) --inter
 ```
 
 will get the same result:  
-    * Red
-    * Green
-    * Blue
+* Red
+* Green
+* Blue
 
 
 ## Ordered Lists
+
+Similarly, you can make an ordered list by preceding list with a number.
+```
+1. Item1
+2. Item2
+3. Item3
+```
+
+1. Item1
+2. Item2
+3. Item3
+
+## Nested Lists
+
+You can create nested list by indenting list items by (one or more) space(s).
+```
+1. Courses
+  * Calculus
+  * C++
+2. Teacher
+  1. Spencer
+  2. Tom
+```
+
+1. Courses
+  * Calculus
+  * C++
+2. Teacher
+  1. Spencer
+  2. Tom
