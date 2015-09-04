@@ -179,7 +179,7 @@ Markdown supports ordered(numbered) and unordered(bulleted) lists.
 
 ## Unordered Lists
 
-To create an unordered list, use asterisks(*), pluses, and hyphens(-) --interchangably-- as list markers:
+To create an unordered list, use asterisks(*), pluses(+), and hyphens(-) --interchangably-- as list markers:
 ```
 * Red
 * Green
@@ -196,10 +196,10 @@ To create an unordered list, use asterisks(*), pluses, and hyphens(-) --intercha
 - Blue
 ```
 
-will get same result:  
-* Red
-* Green
-* Blue
+will get the same result:  
+    * Red
+    * Green
+    * Blue
 
 
 ## Ordered Lists
