@@ -15,6 +15,8 @@
     * [Inline Image Link](#inline-image-link)
     * [Reference Image Link](#reference-image-link)
 * [Lesson4 Lists](#lesson4-lists)
+    * [Unordered Lists](#unordered-lists)
+    * [Ordered Lists](#ordered-lists)
 * [Lesson5 Blockquotes](#lesson5-blockquotes)
 * [Lesson6 Paragrahps](#lesson6-paragrahps)
 * [Lesson7 Code](#lesson7-code)
@@ -25,7 +27,7 @@
 
 ## What is Markdown
 
-[Markdown](daringfireball.net/project/markdown) is a way to style text on the web. You control the display of the document; formatting
+[Markdown](http://daringfireball.net/project/markdown) is a way to style text on the web. You control the display of the document; formatting
 words as bold or italic, adding images, and creating lists are just a few of the things we can do with
 Markdown. Mostly, Markdown is just regular text with a few non-alphabetic characters thrown in, like # or *.
 
@@ -169,3 +171,35 @@ Output:
 ![alt text][1]
 
 [1]: https://octodex.github.com/images/octdrey-catburn.jpg
+
+
+# Lesson4 Lists
+
+Markdown supports ordered(numbered) and unordered(bulleted) lists.
+
+## Unordered Lists
+
+To create an unordered list, use asterisks(*), pluses, and hyphens(-) --interchangably-- as list markers:
+```
+* Red
+* Green
+* Blue
+```
+```
++ Red
++ Green
++ Blue
+```
+```
+- Red
+- Green
+- Blue
+```
+
+will get same result:  
+* Red
+* Green
+* Blue
+
+
+## Ordered Lists
