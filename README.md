@@ -26,6 +26,7 @@
 * [Lesson6 Code](#lesson7-code)
     * [Inline Code](#inline-code)
     * [Code Blocks](#code-blocks)
+        * [Syntax highlighting](#syntax-highlighting)
 
 
 # Markdown Basics
@@ -312,5 +313,37 @@ To create inline code, warp it with backtick quotes(`). For example:
 Use the `printf()` function.
 ```
 
-will produce:
+will produce:  
 Use the `printf()` function.
+
+### Code Blocks
+
+GFW also supports fenced blocks. Just wrap your code in ```(as shown below).
+    ```
+    function test() {
+        console.log("notice the blank line before this function?");
+    }
+    ```
+
+becomes:  
+```
+function test() {
+    console.log("notice the blank line before this function?");
+}
+```
+
+### Syntax highlighting
+
+Code blocks can be taken a step further by adding syntax highlighting. In your fenced block, add an optional language identifier and we'll run it through syntax highlighting. For example, to syntax highlight Ruby code:
+    ```ruby
+    require 'redcarpet'
+    markdown = Redcarper.new("Hello  World!")
+    puts markdown.to_html
+    ```
+
+becomes:  
+```ruby
+require 'redcarpet'
+markdown = Redcarper.new("Hello  World!")
+puts markdown.to_html
+```
