@@ -244,3 +244,12 @@ To create a blockquotes, all you have to do is preface a line with (>):
 ```
 > Keep it simple, stupid.           --U.S.Navy
 ```
+
+Blockquotes can be nested by adding additional levels of (>):
+```
+> This is the first level of quoting.
+>
+> > This is nested blockquote.
+>
+> Back to the first level.
+```
