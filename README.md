@@ -238,11 +238,9 @@ You can create nested list by indenting list items by (one or more) space(s).
 # Lesson5 Blockquotes
 
 If you need to call special attention to a quote from another source, or design a pull quote for a magazine article, then Markdown's _blockquotes_ syntax will be useful. A blockquotes is a sentence or paragraph that's been specially formatted to draw attention to the reader. For example:
-> Keep it simple, stupid.
->                       --U.S.Navy
+> Keep it simple, stupid.           --U.S.Navy
 
 To create a blockquotes, all you have to do is preface a line with (>):
 ```
-> Keep it simple, stupid.
->                       --U.S.Navy
+> Keep it simple, stupid.           --U.S.Navy
 ```
