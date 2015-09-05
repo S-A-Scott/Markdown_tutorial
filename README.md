@@ -21,6 +21,8 @@
 * [Lesson5 Blockquotes and Paragraphs](#lesson5-blockquotes-and-paragraphs)
     * [Blockquotes](#blockquotes)
     * [Paragraphs](#paragraphs)
+        * [Hard Break](#hard-break)
+        * [Soft Break](#soft-break)
 * [Lesson7 Code](#lesson7-code)
 
 
@@ -266,6 +268,8 @@ Blockquotes can be nested by adding additional levels of (>):
 
 ## Paragraphs
 
+### Hard Break
+
 A paragraph is simply one or more consecutive lines of text, separated by one or more blank lines(a line containing nothing but spaces or tabs). Normal paragraphs should not be indented with spaces or tabs.
 
 ```
@@ -279,6 +283,7 @@ On July 2, an alien mothership entered Earth's orbit and deployed several dozen 
 
 On July 3, the Black Knights, a squadron of Marine Corps F/A-18 Hornets, participated in an assault on a destroyer near the city of Los Angeles.
 
+### Soft Break
 
 Suppose you want to write text that looks like this:
 
