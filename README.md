@@ -318,7 +318,8 @@ Use the `printf()` function.
 
 ### Code Blocks
 
-GFW also supports fenced blocks. Just wrap your code in ```(as shown below).  
+GFW also supports fenced blocks. Just wrap your code in ```(as shown below).
+
     ```
     function test() {
         console.log("notice the blank line before this function?");
@@ -334,7 +335,8 @@ function test() {
 
 ### Syntax highlighting
 
-Code blocks can be taken a step further by adding syntax highlighting. In your fenced block, add an optional language identifier and we'll run it through syntax highlighting. For example, to syntax highlight Ruby code:  
+Code blocks can be taken a step further by adding syntax highlighting. In your fenced block, add an optional language identifier and we'll run it through syntax highlighting. For example, to syntax highlight Ruby code:
+
     ```ruby
     require 'redcarpet'
     markdown = Redcarper.new("Hello  World!")
