@@ -18,8 +18,9 @@
     * [Unordered Lists](#unordered-lists)
     * [Ordered Lists](#ordered-lists)
     * [Nested Lists](#nested-lists)
-* [Lesson5 Blockquotes](#lesson5-blockquotes)
-* [Lesson6 Paragrahps](#lesson6-paragrahps)
+* [Lesson5 Blockquotes and Paragraphs](#lesson5-blockquotes-and-paragraphs)
+    * [Blockquotes](#blockquotes)
+    * [Paragraphs](#paragraphs)
 * [Lesson7 Code](#lesson7-code)
 
 
@@ -235,7 +236,9 @@ You can create nested list by indenting list items by (one or more) space(s).
   1. Spencer
   2. Tom
 
-# Lesson5 Blockquotes
+# Lesson5 Blockquotes and Paragraphs
+
+## Blockquotes
 
 If you need to call special attention to a quote from another source, or design a pull quote for a magazine article, then Markdown's _blockquotes_ syntax will be useful. A blockquotes is a sentence or paragraph that's been specially formatted to draw attention to the reader. For example:
 > Keep it simple, stupid.           --U.S.Navy
@@ -261,7 +264,34 @@ Blockquotes can be nested by adding additional levels of (>):
 > Back to the first level.
 ```
 
-# Lesson6 Paragrahps
+## Paragraphs
 
-Roses and read
-Violets are blue
+A paragraph is simply one or more consecutive lines of text, separated by one or more blank lines(a line containing nothing but spaces or tabs). Normal paragraphs should not be indented with spaces or tabs.
+
+```
+On July 2, an alien mothership entered Earth's orbit and deployed several dozen saucer-shaped "destroyer" spacecraft, each 15 miles (24 km) wide.
+
+On July 3, the Black Knights, a squadron of Marine Corps F/A-18 Hornets, participated in an assault on a destroyer near the city of Los Angeles.
+```
+
+becomes:  
+On July 2, an alien mothership entered Earth's orbit and deployed several dozen saucer-shaped "destroyer" spacecraft, each 15 miles (24 km) wide.
+
+On July 3, the Black Knights, a squadron of Marine Corps F/A-18 Hornets, participated in an assault on a destroyer near the city of Los Angeles.
+
+
+Suppose you want to write text that looks like this:
+
+All that is gold does not glitter;  
+all that is long does not last;  
+All that is old does not wither;  
+not all that is over is past.
+
+You can accomplish this by inserting two (or more) spaces after each new line.
+```
+All that is gold does not glitter;##
+all that is long does not last;##
+All that is old does not wither;##
+not all that is over is past.
+```
+Each hash(#) represents a space on the keyboard.
