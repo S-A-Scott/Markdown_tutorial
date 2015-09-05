@@ -23,7 +23,9 @@
     * [Paragraphs](#paragraphs)
         * [Hard Break](#hard-break)
         * [Soft Break](#soft-break)
-* [Lesson7 Code](#lesson7-code)
+* [Lesson6 Code](#lesson7-code)
+    * [Inline Code](#inline-code)
+    * [Code Blocks](#code-blocks)
 
 
 # Markdown Basics
@@ -300,3 +302,15 @@ All that is old does not wither;##
 not all that is over is past.
 ```
 Each hash(#) represents a space on the keyboard.
+
+# Lesson6 Code
+
+## Inline Code
+
+To create inline code, warp it with backtick quotes(`). For example:
+```
+Use the `printf()` function.
+```
+
+will produce:
+Use the `printf()` function.
