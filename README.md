@@ -27,7 +27,7 @@
     * [Inline Code](#inline-code)
     * [Code Blocks](#code-blocks)
         * [Syntax highlighting](#syntax-highlighting)
-
+* [Further reading](#further-reading)
 
 # Markdown Basics
 
@@ -349,3 +349,7 @@ require 'redcarpet'
 markdown = Redcarper.new("Hello  World!")
 puts markdown.to_html
 ```
+
+# Further reading
+
+[Writing on github](https://help.github.com/articles/writing-on-github/)
